@@ -1,0 +1,16 @@
+main : npz\MaintenancePL\Main
+name: MaintenancePL
+version: 3.0.0
+api: 5.0.0
+Author: npz.pw
+
+commands:
+  mm:
+    description: Activate/Disable Maintenance Mode
+    permission: maintenancemode.cmd
+
+permissions:
+  maintenancemode.bypass:
+    default: op
+  maintenancemode.cmd:
+    default: op
