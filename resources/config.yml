@@ -1,4 +1,4 @@
 # If set to "true", Maintenance Mode Will Be Active
 Maintenance_Mode_Active: false
 # Change everything inside of the "" below to set your own message
-Maintenance_Mode_Message: "§eMM §7>> §fThis server is Currently Down For §cMaintenance"
+Maintenance_Mode_Message: "§aGuardian §7>> §fThis server is Currently Down For §cMaintenance"
