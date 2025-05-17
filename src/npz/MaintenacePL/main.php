@@ -1,6 +1,6 @@
 <?php
 
-namespace npz\MaintenancePL;
+namespace npz\MaintenacePL;
 
 use pocketmine\event\player\PlayerLoginEvent;
 use pocketmine\plugin\PluginBase;
