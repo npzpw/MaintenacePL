@@ -1,4 +1,4 @@
-main : npz\MaintenancePL\Main
+main : npz\MaintenacePL\Main
 name: MaintenancePL
 version: 3.0.0
 api: 5.0.0
